@@ -1,12 +1,48 @@
-# React + Vite
+# ✈️ Flightmate – Flight Attendant Task Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Flightmate is a responsive task-tracking application designed for flight attendants to stay organized before flights. It includes a checklist of standard preflight duties for crew positions A–D, the ability to add custom tasks, and live destination weather updates for better preparation.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Preloaded task list for crew positions A–D (e.g., briefings, security, galley checks)
+- ➕ Add custom tasks
+- 🔁 Toggle tasks between incomplete (red) and complete (green)
+- 🌦️ Weather forecast dropdown for Southwest city destinations
+- 📱 Mobile-responsive layout for tablets, phones, and desktops
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Built With
+
+- **React** – Frontend library for interactive UI
+- **Node.js** – Environment for managing packages and backend logic (if extended)
+- **Vite** – Lightning-fast dev environment
+- **OpenWeatherMap API** – Real-time weather by destination
+- **CSS** – Custom styling + responsive breakpoints for cross-platform UX
+
+---
+
+## 📸 Screenshots
+
+> Include screenshots of your app here (UI showing task list, weather dropdown, responsive view, etc.)
+
+---
+
+## 🌐 Live Demo
+
+> [Insert GitHub Pages / Vercel / Netlify link if deployed]
+
+---
+
+## 📦 Getting Started
+
+### Clone the repo
+
+```bash
+git clone https://github.com/ayewal/Flightmate.git
+cd Flightmate
+npm install
+npm run dev
+```
