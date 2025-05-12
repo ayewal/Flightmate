@@ -26,7 +26,13 @@ Flightmate is a responsive task-tracking application designed for flight attenda
 
 ## 📸 Screenshots
 
-> Include screenshots of your app here (UI showing task list, weather dropdown, responsive view, etc.)
+> ![Flightmate Screenshot](./public/Flight_Mate1.png)
+
+![Flightmate Screenshot](./public/Flight_Mate2.png)
+
+![Flightmate Screenshot](./public/Flight_Mate3.png)
+
+Include screenshots of your app here (UI showing task list, weather dropdown, responsive view, etc.)
 
 ---
 
